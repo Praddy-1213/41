@@ -12,3 +12,5 @@ ii) After completion of the code press ‘ESC’ to exit inserting mode
 7. To run the file create an object file by using following command ‘ nvcc file_name.cu -o obj_name’ 
 8. To execute the object file use the command 
 ‘ ./obj_name‘ 
+
+git clone https://github.com/Praddy-1213/41.git
